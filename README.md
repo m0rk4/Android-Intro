@@ -3,3 +3,4 @@
 * Room for data persistance
 * Navigation graph from Android Jetpack
 * MVVM architecture
+* Google Play auth
